@@ -1,0 +1,24 @@
+{
+  "name": "codveda_l1_t2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmarAhmedDev/CodVeda_L1_T2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmarAhmedDev/CodVeda_L1_T2/issues"
+  },
+  "homepage": "https://github.com/AmarAhmedDev/CodVeda_L1_T2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
